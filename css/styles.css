@@ -21,7 +21,7 @@ body {
     flex: 1;
 }
 .logo {
-    background-image: url("/images/logo.png");
+    background-image: url("../images/logo.png");
     background-size: cover;
     height: 65px;
     width: 200.31px;
@@ -33,7 +33,7 @@ body {
     justify-content: center;
 }
 .contact-img {
-    background-image: url("/images/navbar.png");
+    background-image: url("../images/navbar.png");
     background-size: cover;
     height: 45px;
     width: 390.85px;
@@ -66,11 +66,11 @@ body {
     margin-top: 5px; /* Space between text lines if multiple lines are present */
 }
 .download-img {
-    background-image: url("/images/download.png");
+    background-image: url("../images/download.png");
 }
 
 .login-img {
-    background-image: url("/images/login.png");
+    background-image: url("../images/login.png");
 }
 
 /* Media Queries */
@@ -152,7 +152,7 @@ body {
     position: relative;
 }
 .background-img {
-    background-image: url("/images/roadTrip.jpeg");
+    background-image: url("../images/roadTrip.jpeg");
     background-size: cover;
     background-position: center;
     height: 571.98px;
@@ -280,16 +280,16 @@ body {
     height: 20px;
 }
 .delete-img {
-    background-image: url("/images/delete.png");
+    background-image: url("../images/delete.png");
 }
 .compare-arrow-img {
-    background-image: url("/images/compare-arrow.png");
+    background-image: url("../images/compare-arrow.png");
 }
 .location-img {
-    background-image: url("/images/location.png");
+    background-image: url("../images/location.png");
 }
 .clock-img {
-    background-image: url("/images/clock.png");
+    background-image: url("../images/clock.png");
 }
 .pickup-date, .pickup {
     display: flex;
@@ -370,10 +370,10 @@ body {
     border-radius: 10px;
 }
 .playstore-img {
-    background-image: url("/images/playstore.png");
+    background-image: url("../images/playstore.png");
 }
 .store-img {
-    background-image: url("/images/Appstore.png");
+    background-image: url("../images/Appstore.png");
 }
 
 /* Media Queries for Mobile View */
@@ -539,19 +539,19 @@ body {
 }
 
 .return-img {
-    background-image: url("/images/return.png");
+    background-image: url("../images/return.png");
     width: 116.4px;
     height: 73.56px;
 }
 
 .GPS-img {
-    background-image: url("/images/GPS.png");
+    background-image: url("../images/GPS.png");
     width: 59.27px;
     height: 73.04px;
 }
 
 .routes-img {
-    background-image: url("/images/routes.png");
+    background-image: url("../images/routes.png");
     width: 75.08px;
     height: 66px;
 }
@@ -637,7 +637,7 @@ body {
     margin-top: 10%;
 }
 .car-img {
-    background-image: url("/images/car-image.png");
+    background-image: url("../images/car-image.png");
     background-size: cover;
     width: 580px;
     height: 388px;
@@ -687,22 +687,22 @@ body {
     font-size: 20px;
 }
 .flag-img {
-    background-image: url("/images/flag.png");
+    background-image: url("../images/flag.png");
     height: 95.44px;
     width: 55.8px;
 }
 .fleet-img {
-    background-image: url("/images/fleet.png");
+    background-image: url("../images/fleet.png");
     height: 63px;
     width: 55px;
 }
 .order-img {
-    background-image: url("/images/order.png");
+    background-image: url("../images/order.png");
     height: 63px;
     width: 56px;
 }
 .tariffs-img {
-    background-image: url("/images/tariffs.png");
+    background-image: url("../images/tariffs.png");
     height: 58px;
     width: 57px;
 }
@@ -881,7 +881,7 @@ body {
     font-weight: 800;
 }
 .p-gif {
-    background-image: url("/images/processing.gif");
+    background-image: url("../images/processing.gif");
     width: 665px;
     height: 409px;
     background-size: cover;
@@ -937,7 +937,7 @@ body {
     }
 
     .p-gif {
-        background-image: url("/images/processing.gif");
+        background-image: url("../images/processing.gif");
         width: 166.25px;
         height: 102.25px;
         background-size: cover;
@@ -981,7 +981,7 @@ body {
     background:none;
 }
 .w-car-img {
-    background-image: url("/images/w-car.gif");
+    background-image: url("../images/w-car.gif");
     width: 450px;
     height: 301px;
     background-size: cover;
@@ -1072,7 +1072,7 @@ ul li::before {
     }
 
     .w-car-img {
-        background-image: url("/images/w-car.gif");
+        background-image: url("../images/w-car.gif");
         width: 180.06px; 
         height: 120.72px; 
         background-size: cover;
@@ -1253,7 +1253,7 @@ ul li::before {
     box-sizing: border-box;
 }
 .logo-img {
-    background-image: url("/images/logo.png");
+    background-image: url("../images/logo.png");
     background-size: cover;
     height: 50px;
     width: 150.31px;
